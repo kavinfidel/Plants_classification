@@ -14,7 +14,7 @@ Types of Plants:
 3. Mirabillis Jalapa
 4. Rain Lily
 5. Zinnia Elegans
-6. 
+
 The images are used to train on the following pretrained CNN models using Transfer Learning
 and Fine-Tuning:
 
